@@ -1,0 +1,11 @@
+item_path,item_text,editable
+backgroundImages.main,main-bg.jpg,yes
+backgroundImages.services,services-bg.jpg,yes
+faqConfig.questions[0].answer,Sample answer,yes
+faqConfig.questions[0].question,Sample question?,yes
+servicesConfig.services[0].description,Service description,yes
+servicesConfig.services[0].title,Service 1,yes
+siteConfig.description,Auto Service Center,yes
+siteConfig.title,Nizan Auto,yes
+testimonialsConfig.testimonials[0].name,Customer 1,yes
+testimonialsConfig.testimonials[0].text,Testimonial text,yes
